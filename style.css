@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: o;
+}
+.section-item{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.color-orange{
+    color: orange;
+}
+#mission-boder{
+    border-left: 4px solid;
+    border-image: linear-gradient(#db331d, #e7520d) 30;
+}
+.focused-on{
+    padding-left: 9px;
+    margin-top: 20px;
+    font-size: x-large;
+}
+.half-width{
+    width: 50%;
+    margin-top: 40px;
+}
+.half-width img{
+    width: 80%;
+    padding-left: 10%;
+}
+.button-color{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 7px;
+    color: white;
+    background-image: linear-gradient(hsl(19, 94%, 50%), hsla(17, 92%, 50%, 0.932));
+}
