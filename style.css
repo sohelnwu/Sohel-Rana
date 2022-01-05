@@ -34,3 +34,44 @@ body{
     color: white;
     background-image: linear-gradient(hsl(19, 94%, 50%), hsla(17, 92%, 50%, 0.932));
 }
+.text-center{
+    text-align: center;
+    font-size: xx-large;
+}
+.section-second{
+    display: flex;
+    margin-left: 65px;
+    margin-right: 43px;
+}
+.image-size{
+    width: 35%;
+}
+.mission-border{
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 7px;
+    padding-left: 10px;
+}
+#first-border-bg{
+    background-color: rgb(237, 245, 246);
+}
+#second-border-bg{
+    background-color: rgb(255, 238, 238);
+}
+#third-border-bg{
+    background-color: rgb(255, 244, 214);
+}
+.section-third-bg{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background: position left;;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+}
+#footer-span{
+    color: red;
+}
