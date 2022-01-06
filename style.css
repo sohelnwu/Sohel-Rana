@@ -38,17 +38,12 @@ body{
     text-align: center;
     font-size: xx-large;
 }
-.section-second{
-    display: flex;
-    margin-left: 65px;
-    margin-right: 43px;
-}
 .image-size{
-    width: 35%;
+    width: 30%;
 }
 .mission-border{
-    margin-left: 3%;
-    margin-right: 3%;
+    margin-left: 1%;
+    margin-right: 1%;
     border-radius: 7px;
     padding-left: 10px;
 }
@@ -61,16 +56,40 @@ body{
 #third-border-bg{
     background-color: rgb(255, 244, 214);
 }
+.develop-section{
+    width: 60%;
+    margin-top: 40px;
+}
+.develop-section img{
+    width: 80%;
+}
 .section-third-bg{
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     background: position left;;
+}
+#global-community{
+    margin-left: 60px;
+}
+#doctor-management{
+    margin-top: 70px;
+}
+.hello-doctor{
+    width: 60%;
+}
+.hello-doctor img{
+    width: 200px;
+    height: 200px;
+}
+#doctor-part{
+    margin-left: 60px;
 }
 footer{
     background-color: black;
     text-align: center;
     color: white;
     padding-top: 5px;
+    margin-top: 30px;
 }
 #footer-span{
     color: red;
