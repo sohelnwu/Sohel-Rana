@@ -63,11 +63,19 @@ body{
 .develop-section img{
     width: 90%;
 }
-.section-third-bg{
+#section-third-bg{
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
-    background: position left;;
+    background: position left;
 }
+#section-four-bg{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: top 158px right 325px;
+    background-size: 10%;
+}
+
+
 #develop-limits{
     padding-left: 56px;
 }
