@@ -61,12 +61,15 @@ body{
     margin-top: 40px;
 }
 .develop-section img{
-    width: 80%;
+    width: 90%;
 }
 .section-third-bg{
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     background: position left;;
+}
+#develop-limits{
+    padding-left: 56px;
 }
 #global-community{
     margin-left: 60px;
@@ -78,8 +81,8 @@ body{
     width: 60%;
 }
 .hello-doctor img{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
 }
 #doctor-part{
     margin-left: 60px;
